@@ -1,0 +1,67 @@
+{
+    "main_menu": {
+        "background_music": "audio/Chocobos!.mp3",
+        "background_image": "images/backgrounds/main_menu.png",
+        "text_color": "gold"
+    },
+    "game": {
+        "background_music": {
+            "audio/Chocobos!.mp3": 2,
+            "audio/Contra.mp3": 1,
+            "audio/Circus_Charlie.mp3": 1,
+            "audio/Dr.Mario.mp3": 1,
+            "audio/Super_Mario.mp3": 1
+        },
+        "background_image": {
+            "images/tileset/walls/wooden/wood_floor_0.png": 5,
+            "images/tileset/walls/wooden/wood_floor_1.png": 7,
+            "images/tileset/walls/wooden/wood_floor_2.png": 10,
+            "images/tileset/walls/wooden/wood_floor_3.png": 2
+        },
+        "resolution_px": 32,
+        "item_box": "images/ui/box.png",
+        "text_color": "gold"
+    },
+    "entities": {
+        "boulder": "images/tileset/entities/boulder.png",
+        "bow": "images/tileset/items/bow.png",
+        "player": "images/tileset/entities/entity.png",
+        "bomb": "images/tileset/items/bomb.png",
+        "wood": "images/tileset/entities/wood.png",
+        "arrow": "images/tileset/items/arrow.png",
+        "exit": "images/tileset/entities/exit.png",
+        "treasure": "images/tileset/items/treasure.png",
+        "wall": "images/tileset/walls/stone/wall.png",
+        "spider": "images/tileset/entities/spider.png",
+        "mercenary": "images/tileset/entities/mercenary.png",
+        "switch": "images/tileset/floor_switch.png",
+        "sword": "images/tileset/items/sword.png",
+        "zombie": "images/tileset/entities/zombie.png",
+        "door": "images/tileset/entities/door.png",
+        "portal": "images/tileset/entities/portal.png",
+        "portal_BLUE": "images/tileset/entities/portal_BLUE.png",
+        "portal_RED": "images/tileset/entities/portal_RED.png",
+        "portal_YELLOW": "images/tileset/entities/portal_YELLOW.png",
+        "portal_PURPLE": "images/tileset/entities/portal_PURPLE.png",
+        "zombie_toast_spawner": "images/tileset/entities/spawner.png",
+        "key": "images/tileset/items/key.png",
+        "health_potion": "images/tileset/items/health_potion.png",
+        "invincibility_potion": "images/tileset/items/invincibility_potion.png",
+        "invisibility_potion": "images/tileset/items/invisibility_potion.png",
+        "armour": "images/tileset/items/armour.png",
+        "the_one_ring": "images/tileset/items/the_one_ring.png",
+        "shield": "images/tileset/items/shield.png",
+        "anduril": "images/tileset/entities/anduril.png",
+        "assassin": "images/tileset/entities/assassin.png",
+        "hydra": "images/tileset/entities/hydra.png",
+        "lightbulb": "images/tileset/entities/lightbulb.png",
+        "midnight_armour": "images/tileset/entities/midnight_armour.png",
+        "sceptre": "images/tileset/entities/sceptre.png",
+        "sun_stone": "images/tileset/entities/sun_stone.png",
+        "swamp_tile": "images/tileset/entities/swamp_tile.png",
+        "time_turner": "images/tileset/entities/time_turner.png",
+        "wire": "images/tileset/entities/wire.png",
+        "time_travelling_portal": "images/tileset/entities/time_travelling_portal.png",
+        "older_player": "images/tileset/entities/older_player.png"
+    }
+}

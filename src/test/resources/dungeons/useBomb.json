@@ -1,0 +1,37 @@
+{
+    "entities": [
+      {
+        "x": 1,
+        "y": 0,
+        "type": "player"
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "type": "boulder"
+      },
+      {
+        "x": 3,
+        "y": 0,
+        "type": "switch"
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "type": "bomb"
+      },
+      {
+        "x": 2,
+        "y": 1,
+        "type": "health_potion"
+      },
+      {
+        "x": 22,
+        "y": 11,
+        "type": "sword"
+      }
+    ],
+    "goal-condition": {
+      "goal": "exit"
+    }
+  }

@@ -1,0 +1,36 @@
+{
+    "entities": [
+      {
+        "x": 1,
+        "y": 0,
+        "type": "player"
+      },{
+        "x": 9,
+        "y": 9,
+        "type": "mercenary"
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "type": "mercenary"
+      },
+      {
+        "x": 3,
+        "y": 0,
+        "type": "armour"
+      },
+      {
+        "x": 4,
+        "y": 0,
+        "type": "health_potion"
+      },
+      {
+        "x": 10,
+        "y": 0,
+        "type": "mercenary"
+      }
+    ],
+    "goal-condition": {
+        "goal": "boulders"
+    }
+}

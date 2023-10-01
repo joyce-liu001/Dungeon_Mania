@@ -1,0 +1,13 @@
+{
+  "entities": [
+    {
+      "x": -1,
+      "y": -1,
+      "type": "player"
+    }
+
+  ],
+  "goal-condition": {
+    "goal": "exit"
+  }
+}

@@ -1,0 +1,22 @@
+{
+    "entities": [
+      {
+        "x": 1,
+        "y": 0,
+        "type": "player"
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "type": "wall"
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "type": "invisibility_potion"
+      }
+    ],
+      "goal-condition": {
+        "goal": "boulders"
+      }
+}

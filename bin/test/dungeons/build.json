@@ -1,0 +1,99 @@
+{
+    "entities": [
+      {
+        "x": 1,
+        "y": 0,
+        "type": "player"
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "type": "wood"
+      },
+      {
+        "x": 3,
+        "y": 0,
+        "type": "arrow"
+      },
+      {
+        "x": 4,
+        "y": 0,
+        "type": "arrow"
+      },
+      {
+        "x": 5,
+        "y": 0,
+        "type": "arrow"
+      },
+      {
+        "x": 6,
+        "y": 0,
+        "type": "wood"
+      },
+      {
+        "x": 7,
+        "y": 0,
+        "type": "wood"
+      },
+      {
+        "x": 8,
+        "y": 0,
+        "type": "treasure"
+      },
+      {
+        "x": 9,
+        "y": 0,
+        "type": "wood"
+      },
+      {
+        "x": 10,
+        "y": 0,
+        "type": "wood"
+      },
+      {
+        "x": 11,
+        "y": 0,
+        "type": "key",
+        "key": 1
+      },
+      {
+        "x": 12,
+        "y": 0,
+        "type": "armour"
+      },
+      {
+        "x": 13,
+        "y": 0,
+        "type": "sun_stone"
+      },
+      {
+        "x": 14,
+        "y": 0,
+        "type": "wood"
+      },
+      {
+        "x": 15,
+        "y": 0,
+        "type": "arrow"
+      },
+      {
+        "x": 16,
+        "y": 0,
+        "type": "arrow"
+      },
+      {
+        "x": 17,
+        "y": 0,
+        "type": "key",
+        "key": 2
+      },
+      {
+        "x": 18,
+        "y": 0,
+        "type": "treasure"
+      }
+    ],
+    "goal-condition": {
+      "goal": "boulders"
+    }
+  }

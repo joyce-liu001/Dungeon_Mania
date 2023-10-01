@@ -1,0 +1,15 @@
+{
+  "entities": [
+    {
+      "x": 50,
+      "y": 50,
+      "type": "player"
+    }
+
+  ],
+  "goal-condition": {
+    "goal": "boulders"
+  },
+  "width": 100,
+  "height": 100
+}

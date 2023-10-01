@@ -1,0 +1,203 @@
+{
+  "width": 22,
+  "height": 2,
+  "entities": [
+    {
+      "x": 0,
+      "y": 0,
+      "type": "wall"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "type": "boulder"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "type": "door",
+      "key":1
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "type": "exit"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "type": "switch"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "type": "portal",
+      "colour": "RED"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "type": "key",
+      "key":1
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "type": "zombie_toast_spawner"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "type": "mercenary"
+    },
+    {
+      "x": 9,
+      "y": 0,
+      "type": "spider"
+    },
+    {
+      "x": 10,
+      "y": 0,
+      "type": "zombie"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "type": "player"
+    },
+    {
+      "x": 11,
+      "y": 0,
+      "type": "armour"
+    },
+    {
+      "x": 12,
+      "y": 0,
+      "type": "arrow"
+    },
+    {
+      "x": 13,
+      "y": 0,
+      "type": "bomb"
+    },
+    {
+      "x": 14,
+      "y": 0,
+      "type": "bow"
+    },
+    {
+      "x": 15,
+      "y": 0,
+      "type": "health_potion"
+    },
+    {
+      "x": 16,
+      "y": 0,
+      "type": "invincibility_potion"
+    },
+    {
+      "x": 17,
+      "y": 0,
+      "type": "invisibility_potion"
+    },
+    {
+      "x": 18,
+      "y": 0,
+      "type": "one_ring"
+    },
+    {
+      "x": 19,
+      "y": 0,
+      "type": "shield"
+    },
+    {
+      "x": 20,
+      "y": 0,
+      "type": "sword"
+    },
+    {
+      "x": 21,
+      "y": 0,
+      "type": "treasure"
+    },
+    {
+      "x": 22,
+      "y": 0,
+      "type": "wood"
+    },
+    {
+      "x": 23,
+      "y": 0,
+      "type": "anduril"
+    },
+    {
+      "x": 24,
+      "y": 0,
+      "type": "assassin"
+    },
+    {
+      "x": 25,
+      "y": 0,
+      "type": "hydra"
+    },
+    {
+      "x": 26,
+      "y": 0,
+      "type": "lightbulb"
+    },
+    {
+      "x": 21,
+      "y": 1,
+      "type": "midnight_armour"
+    },
+    {
+      "x": 22,
+      "y": 1,
+      "type": "sceptre"
+    },
+    {
+      "x": 23,
+      "y": 1,
+      "type": "sun_stone"
+    },
+    {
+      "x": 24,
+      "y": 1,
+      "type": "swamp_tile"
+    },
+    {
+      "x": 25,
+      "y": 1,
+      "type": "time_turner"
+    },
+    {
+      "x": 26,
+      "y": 1,
+      "type": "wire"
+    },
+    {
+      "x": 24,
+      "y": 2,
+      "type": "portal_YELLOW"
+    },
+    {
+      "x": 25,
+      "y": 2,
+      "type": "portal_RED"
+    },
+    {
+      "x": 26,
+      "y": 2,
+      "type": "portal_PURPLE"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "type": "swamp_tile",
+      "movement_factor": 3
+    }
+  ],
+  "goal-condition": {
+    "goal": "exit"
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "entities": [
+      {
+        "x": 1,
+        "y": 0,
+        "type": "player"
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "type": "the_one_ring"
+      }
+    ],
+    "goal-condition": {
+      "goal": "boulders"
+    }
+  }

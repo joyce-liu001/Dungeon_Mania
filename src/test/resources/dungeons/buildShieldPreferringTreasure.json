@@ -1,0 +1,32 @@
+{
+    "entities": [
+      {
+        "x": 1,
+        "y": 0,
+        "type": "player"
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "type": "wood"
+      },
+      {
+        "x": 3,
+        "y": 0,
+        "type": "wood"
+      },
+      {
+        "x": 4,
+        "y": 0,
+        "type": "treasure"
+      },
+      {
+        "x": 5,
+        "y": 0,
+        "type": "key"
+      }
+    ],
+    "goal-condition": {
+      "goal": "boulders"
+    }
+  }
